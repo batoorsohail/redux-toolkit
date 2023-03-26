@@ -86,7 +86,7 @@ Start the Project `$ npm start` - serve the project in browser
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Batoor Sohail**
+👤 **Sohail Batoor**
 
 - GitHub: [@batoorsohail](https://github.com/batoorsohail)
 - Twitter: [@twitter](https://twitter.com/sohailBatoor)
